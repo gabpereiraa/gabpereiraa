@@ -17,6 +17,11 @@ Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver 
 - ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
 - ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)
 
+  ## 🚀 Meus Projetos
+
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Um breve resumo do projeto 1, destacando suas funcionalidades principais e tecnologias usadas
+
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabpereiraa&show_icons=true&theme=radical)
