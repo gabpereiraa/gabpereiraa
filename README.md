@@ -17,10 +17,10 @@ Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver 
 - ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
 - ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)
 
-  ## 🚀 Meus Projetos
+  ## 🚀 Meu Projeto
 
-### [Projeto 1](https://github.com/seu-usuario/projeto1)
-Um breve resumo do projeto 1, destacando suas funcionalidades principais e tecnologias usadas
+### [Sistema de Ordem de Serviço](https://github.com/gabpereiraa/sistema_ordem_servico)
+O projeto foi feito para agilizar no tempo de criação de ordens de serviço (OS), controle de estoque e relatórios. O projeto foi programado em JAVA onde foi adquirido mais conhecimentos da linguagem. A parte mais difícil do projeto foi a implementação do validador de CPF e CNPJ onde verifica se o documento é valido.
 
 ## 📈 Estatísticas do GitHub
 
