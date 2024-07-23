@@ -15,7 +15,7 @@ Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver 
 ### Ferramentas e Tecnologias
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 - ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
-- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+- ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)
 
 ## 📈 Estatísticas do GitHub
 
