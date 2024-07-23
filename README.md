@@ -10,7 +10,7 @@
 💻 **Apaixonado por tecnologias**  
 🔍 **Sempre em busca de conhecimento**  
 
-Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver problemas do mundo real. Estou sempre aberto a colaborar em projetos interessantes e aprender com outras pessoas.
+Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver problemas das pessoas e do mundo. Estou sempre em busca de aprendizado para expandir meus conhecimentos.
 
 ### Ferramentas e Tecnologias
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
