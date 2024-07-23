@@ -20,7 +20,7 @@ Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver 
   ## 🚀 Meu Projeto
 
 ### [Sistema de Ordem de Serviço](https://github.com/gabpereiraa/sistema_ordem_servico)
-O projeto foi feito para agilizar no tempo de criação de ordens de serviço (OS), controle de estoque e relatórios. O projeto foi programado em JAVA onde foi adquirido mais conhecimentos da linguagem. A parte mais difícil do projeto foi a implementação do validador de CPF e CNPJ onde verifica se o documento é valido.
+O projeto foi feito para agilizar no tempo de criação de ordens de serviço (OS), controle de estoque e relatórios da empresa Marvi Cold. O projeto foi programado em JAVA onde foi adquirido mais conhecimentos da linguagem. A parte mais difícil do projeto foi a implementação do validador de CPF e CNPJ onde verifica se o documento é valido.
 
 ## 📈 Estatísticas do GitHub
 
