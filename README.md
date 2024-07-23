@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Anastácio. 👋
 
-<!--
-**gabpereiraa/gabpereiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gabriel-anastacio-pereira/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/gabpereiraa)
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formado no curso técnico em Informática**  
+📚 **Estudante de Ciência da Computação**  
+💻 **Apaixonado por tecnologias**  
+🔍 **Sempre em busca de conhecimento**  
+
+Adoro explorar novas tecnologias e encontrar maneiras de usá-las para resolver problemas do mundo real. Estou sempre aberto a colaborar em projetos interessantes e aprender com outras pessoas.
+
+### Ferramentas e Tecnologias
+- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+- ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
+- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabpereiraa&show_icons=true&theme=radical)
+
+## 📫 Contato
+
+Você pode me encontrar em:
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-anastacio-pereira/)
+- [Email](mailto:gabrielanasaciopereira@gmail.com)
